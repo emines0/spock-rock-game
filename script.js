@@ -176,6 +176,7 @@ function select(playerChoice) {
 
 }
 
+// make functions used in HTML global 
 window.select = select;
 window.resetAll = resetAll;
 
